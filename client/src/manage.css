@@ -1,0 +1,35 @@
+tr{
+    max-width: 2px; 
+    background: #c9c8c8;
+     color: black;
+    cursor: pointer;
+    padding: 10px;
+    height: 3rem; 
+    border-radius: 5px;
+    border-bottom: 1px solid black;
+}
+.btn1{
+    background: dodgerblue;
+    color: white;
+    border: none;
+     cursor: pointer;
+     padding: 5px;
+     height: 0.7em;
+     border-radius: 5px;
+}
+.btn2{
+    background: dodgerblue; 
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    height: 0.7em;
+    margin-left: 10rem;
+    border-radius: 5px;
+}
+.inner-container{
+    
+    padding: 3rem;
+
+    
+}

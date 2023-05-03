@@ -1,0 +1,32 @@
+.input-field-main-container{
+    width:80%;
+    margin-bottom:12px;
+    display:flex;
+    flex-direction:column;
+    margin-top:-4px;
+    background-color:white;
+    color:#1e1e1e;
+
+}
+.input-field-title{
+    color:#1e1e1e;
+    margin-bottom:4px;
+    font-size:14px;
+}
+.input{
+    height:35px;
+    text-indent:8px;
+    outline:none;
+    border:1px solid #12121259;
+    border-radius:3px;
+    background-color:white;
+    color:#1e1e1e;
+
+}
+.error-display{
+    color:red;
+    margin-top:4px;
+    font-size:10px;
+    font-family:Poppins;
+    font-weight:bold;
+}

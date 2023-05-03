@@ -1,0 +1,12 @@
+.btn-container{
+    margin:10px;
+    width: 100%;
+    height: 45px;
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: 500;
+    border: none;
+    background: #162938;
+    border-radius: 10px;
+    cursor: pointer;
+}
